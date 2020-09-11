@@ -1,0 +1,12 @@
+/*Tag-based styling*/
+body{
+    background-color: lightblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+/*Id-based styling*/
+#form-body{
+    background-color: lightcoral;
+}
+.box{
+    margin : 10px 10px 10px 10px
+}
